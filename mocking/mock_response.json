@@ -1,0 +1,21 @@
+{
+	"id": "chatcmpl-7ewmLnaVPwPZVOEa4bI8uxzGmqybQ",
+	"object": "chat.completion",
+	"created": 1689993421,
+	"model": "gpt-3.5-turbo-0613",
+	"choices": [
+		{
+			"index": 0,
+			"message": {
+				"role": "assistant",
+				"content": "*Question*: What are the two broad categories of antagonists?\n*Answer*: Chemical, physiological\n\n*Question*: What are the three types of pharmacological antagonists?\n*Answer*: Competitive, noncompetitive, irreversible/nonsurmountable competitive\n\n*Question*: What does KI stand for?\n*Answer*: KI stands for binding affinity constant\n\n*Question*: What does IC50 stand for?\n*Answer*: IC50 stands for half maximal inhibitory concentration"
+			},
+			"finish_reason": "stop"
+		}
+	],
+	"usage": {
+		"prompt_tokens": 399,
+		"completion_tokens": 93,
+		"total_tokens": 492
+	}
+}

@@ -1,0 +1,14 @@
+You are a note-taker for a student. Provided a section of text taken from a class presentation,
+generate a series of fill in the blank question and answers that can be used to make flashcards.
+
+
+The content generated should follow the following format:
+
+*Question*: The function f(x) = x^2 - 1 has exactly 2 real roots, specifically ________ and _______.
+
+*Answer*: -1, 1
+
+The answers should not be complete sentences
+
+
+Slide Content:
